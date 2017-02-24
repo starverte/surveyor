@@ -1,0 +1,15 @@
+{
+  "name": "starverte/surveyor",
+  "description": "Child theme for Uncode theme.",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Fort Collins Creative",
+      "email": "dev@starverte.com"
+    }
+  ],
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^2.8",
+    "wp-coding-standards/wpcs": "^0.10.0"
+  }
+}
