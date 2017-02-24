@@ -1,0 +1,15 @@
+{
+  "name": "surveyor",
+  "version": "0.1.0",
+  "description": "Child theme for Uncode theme.",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fort Collins Creative",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "snyk": "^1.25.1"
+  }
+}
